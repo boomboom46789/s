@@ -1,3 +1,3 @@
 # DiscordTestsScript
 ### chage the part at atob with your discord webhook and send it to your friend!
-## A simple token grabber lol, it grab cookie too so...
+## A simple token grabber lol
